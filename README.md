@@ -1,0 +1,1 @@
+# web-magazine_20200826_vol.1
