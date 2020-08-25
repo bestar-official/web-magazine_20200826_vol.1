@@ -1,0 +1,329 @@
+img{ 
+    max-width:100%; 
+    height:auto; 
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+
+.logo{
+    width: 100%;
+}
+
+.mainview{
+    position: relative;
+}
+
+.mainVisual{
+    width: 100%;
+}
+
+.text01{
+    position: absolute;
+    top: 41.5%;
+    left: 7%;
+    width: 86%;
+    color: white;
+    font-size: 1.7vmax;
+    line-height: 1.7;
+    text-align: justify;
+    text-justify: inter-ideograph;
+}
+
+.title{
+    position: absolute;
+    top: 59%;
+    left: 7%;
+    font-size: 2.9vmax;
+    font-weight: bold;
+}
+
+.text02{
+    position: absolute;
+    top: 85%;
+    left: 7%;
+    width: 86%;
+    font-size: 1.7vmax;
+    line-height: 1.7;
+    text-align: justify;
+    text-justify: inter-ideograph;  
+}
+
+
+
+.experiment01{
+    position: relative;
+    margin-top: 30px;
+}
+
+.step01{
+    width: 100%;
+}
+
+.text03{
+    position: absolute;
+    top: 57%;
+    left: 7%;
+    width: 55%;
+    font-size: 1.5vmax;
+    line-height: 1.7;
+    text-align: justify;
+    text-justify: inter-ideograph;  
+}
+
+
+
+.experiment02{
+    position: relative;
+    margin-top: 10px;
+}
+
+.step02{
+    width: 100%;
+}
+
+.text04{
+    position: absolute;
+    top: 47%;
+    left: 52%;
+    width: 40%;
+    font-size: 1.5vmax;
+    line-height: 1.7;
+    text-align: justify;
+    text-justify: inter-ideograph;  
+}
+
+
+
+.earthPoint01{
+    position: relative;
+    margin-top: 40px;
+}
+
+.point01{
+    width: 100%;
+}
+
+.text05{
+    position: absolute;
+    top: 63%;
+    left: 7%;
+    width: 86%;
+    font-size: 1.5vmax;
+    line-height: 1.7;
+    text-align: justify;
+    text-justify: inter-ideograph;  
+}
+
+
+
+.experiment03{
+    position: relative;
+    margin-top: 10px;
+}
+
+.step03{
+    width: 100%;
+}
+
+.text06{
+    position: absolute;
+    top: 44%;
+    left: 7%;
+    width: 43%;
+    font-size: 1.5vmax;
+    line-height: 1.7;
+    text-align: justify;
+    text-justify: inter-ideograph;  
+}
+
+
+
+.experiment04{
+    position: relative;
+    margin-top: 10px;
+}
+
+.step04{
+    width: 100%;
+}
+
+.text07{
+    position: absolute;
+    top: 53%;
+    left: 48%;
+    width: 45%;
+    font-size: 1.5vmax;
+    line-height: 1.7;
+    text-align: justify;
+    text-justify: inter-ideograph;  
+}
+
+
+
+.earthPoint02{
+    position: relative;
+    margin-top: 40px;
+}
+
+.point02{
+    width: 100%;
+}
+
+.text08{
+    position: absolute;
+    top: 70%;
+    left: 7%;
+    width: 86%;
+    font-size: 1.5vmax;
+    line-height: 1.7;
+    text-align: justify;
+    text-justify: inter-ideograph;  
+}
+
+
+
+.aboutApplication{
+    position: relative;
+    margin-top: 40px;
+}
+
+.application{
+    width: 100%;
+}
+
+.text09{
+    position: absolute;
+    top: 38%;
+    left: 30%;
+    width: 60%;
+    font-size: 1.3vmax;
+    line-height: 1.7;
+    text-align: justify;
+    text-justify: inter-ideograph;  
+}
+
+.AppStore01{
+    position: absolute;
+    top: 68%;
+    left: 10%;
+    width: 38%;
+}
+
+.GooglePlay01{
+    position: absolute;
+    top: 68%;
+    left: 52%;
+    width: 38%;
+}
+
+
+
+.studenIinterview{
+    position: relative;
+    margin-top: 40px;
+}
+
+.interview{
+    width: 100%;
+}
+
+.text010{
+    position: absolute;
+    top: 30%;
+    left: 7%;
+    width: 86%;
+    font-size: 1.6vmax;
+    line-height: 1.7;
+    text-align: justify;
+    text-justify: inter-ideograph;  
+}
+
+.text011{
+    position: absolute;
+    top: 68%;
+    left: 7%;
+    width: 86%;
+    font-size: 1.6vmax;
+    line-height: 1.7;
+    text-align: justify;
+    text-justify: inter-ideograph;  
+}
+
+
+
+.stProfile{
+    position: relative;
+}
+
+.studentProfile{
+    width: 100%;
+}
+
+.insta_button{
+    position: absolute;
+    top: 80%;
+    left: 25%;
+    width: 53%;
+}
+
+
+
+.slProfile{
+    position: relative;
+    margin-top: 30px;
+}
+
+.salonPlofile{
+    width: 100%;
+}
+
+.home{
+    position: absolute;
+    top: 25%;
+    left: 37%;
+    width:10%;
+}
+
+.instagram{
+    position: absolute;
+    top: 25%;
+    left: 55%;
+    width: 10%;
+}
+
+.text12{
+    position: absolute;
+    top: 53%;
+    left: 7%;
+    width: 86%;
+    font-size: 1.6vmax;
+    line-height: 1.7;
+    text-align: justify;
+    text-justify: inter-ideograph;  
+}
+
+.AppStore02{
+    position: absolute;
+    top: 78.6%;
+    left: 10%;
+    width: 38%;
+}
+
+.GooglePlay02{
+    position: absolute;
+    top: 78.6%;
+    left: 52%;
+    width: 38%;
+}
+
+.back{
+    position: absolute;
+    top: 90%;
+    left: 40%;
+    width: 20%;
+}
